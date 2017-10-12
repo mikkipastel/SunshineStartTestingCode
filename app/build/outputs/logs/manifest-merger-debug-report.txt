@@ -6,7 +6,6 @@ INJECTED from /Users/fungjai/Documents/playground_android/architectureComponents
 INJECTED from /Users/fungjai/Documents/playground_android/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
 MERGED from [com.android.databinding:adapters:1.3.1] /Users/fungjai/.gradle/caches/transforms-1/files-1.1/adapters-1.3.1.aar/0631fe2e33992ec40345998a6bff1deb/AndroidManifest.xml:17:1-26:12
 MERGED from [com.android.databinding:library:1.3.1] /Users/fungjai/.gradle/caches/transforms-1/files-1.1/library-1.3.1.aar/f38cc0d441be1968a7fcfd936c004e36/AndroidManifest.xml:17:1-26:12
-MERGED from [com.android.support:multidex:1.0.2] /Users/fungjai/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/13e694a2cda1a6c4746d397a11258c52/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:preference-v7:26.1.0] /Users/fungjai/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/9b4c587d903aff42ecf086b32281d850/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/fungjai/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f078e39d8ffcec60c9988b3e5a09c0d0/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/fungjai/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/e7b84e995c2799a85d49a49429ca6be1/AndroidManifest.xml:17:1-28:12
@@ -24,6 +23,7 @@ MERGED from [com.android.support:support-core-utils:26.1.0] /Users/fungjai/.grad
 MERGED from [com.android.support:support-compat:26.1.0] /Users/fungjai/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/52eb0b9a80a49444588177f9a03ec5e7/AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/fungjai/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b933bf38a5bec9d3ea78cd993f25b714/AndroidManifest.xml:17:1-30:12
 MERGED from [android.arch.core:core-testing:1.0.0-alpha9-1] /Users/fungjai/.gradle/caches/transforms-1/files-1.1/core-testing-1.0.0-alpha9-1.aar/6dbb2f530fda8ab36a8e83cd6db81a55/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/fungjai/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/13e694a2cda1a6c4746d397a11258c52/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.persistence.room:db-impl:1.0.0-alpha9-1] /Users/fungjai/.gradle/caches/transforms-1/files-1.1/db-impl-1.0.0-alpha9-1.aar/d64715cc6c61351e276e1dc564c1611a/AndroidManifest.xml:17:1-30:12
 MERGED from [android.arch.persistence.room:db:1.0.0-alpha9-1] /Users/fungjai/.gradle/caches/transforms-1/files-1.1/db-1.0.0-alpha9-1.aar/5856d1930178baa49c0b886538696ee2/AndroidManifest.xml:17:1-30:12
 MERGED from [android.arch.core:runtime:1.0.0-alpha9-1] /Users/fungjai/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-alpha9-1.aar/e420f0f3a3c863e6beb270fdbead2071/AndroidManifest.xml:17:1-30:12
@@ -162,8 +162,6 @@ MERGED from [com.android.databinding:adapters:1.3.1] /Users/fungjai/.gradle/cach
 MERGED from [com.android.databinding:adapters:1.3.1] /Users/fungjai/.gradle/caches/transforms-1/files-1.1/adapters-1.3.1.aar/0631fe2e33992ec40345998a6bff1deb/AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.databinding:library:1.3.1] /Users/fungjai/.gradle/caches/transforms-1/files-1.1/library-1.3.1.aar/f38cc0d441be1968a7fcfd936c004e36/AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.databinding:library:1.3.1] /Users/fungjai/.gradle/caches/transforms-1/files-1.1/library-1.3.1.aar/f38cc0d441be1968a7fcfd936c004e36/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:multidex:1.0.2] /Users/fungjai/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/13e694a2cda1a6c4746d397a11258c52/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:multidex:1.0.2] /Users/fungjai/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/13e694a2cda1a6c4746d397a11258c52/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:preference-v7:26.1.0] /Users/fungjai/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/9b4c587d903aff42ecf086b32281d850/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:preference-v7:26.1.0] /Users/fungjai/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/9b4c587d903aff42ecf086b32281d850/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/fungjai/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f078e39d8ffcec60c9988b3e5a09c0d0/AndroidManifest.xml:21:5-23:78
@@ -198,6 +196,8 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/fungjai/.gradle/caches
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/fungjai/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b933bf38a5bec9d3ea78cd993f25b714/AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.core:core-testing:1.0.0-alpha9-1] /Users/fungjai/.gradle/caches/transforms-1/files-1.1/core-testing-1.0.0-alpha9-1.aar/6dbb2f530fda8ab36a8e83cd6db81a55/AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.core:core-testing:1.0.0-alpha9-1] /Users/fungjai/.gradle/caches/transforms-1/files-1.1/core-testing-1.0.0-alpha9-1.aar/6dbb2f530fda8ab36a8e83cd6db81a55/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:multidex:1.0.2] /Users/fungjai/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/13e694a2cda1a6c4746d397a11258c52/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/fungjai/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/13e694a2cda1a6c4746d397a11258c52/AndroidManifest.xml:20:5-43
 MERGED from [android.arch.persistence.room:db-impl:1.0.0-alpha9-1] /Users/fungjai/.gradle/caches/transforms-1/files-1.1/db-impl-1.0.0-alpha9-1.aar/d64715cc6c61351e276e1dc564c1611a/AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.persistence.room:db-impl:1.0.0-alpha9-1] /Users/fungjai/.gradle/caches/transforms-1/files-1.1/db-impl-1.0.0-alpha9-1.aar/d64715cc6c61351e276e1dc564c1611a/AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.persistence.room:db:1.0.0-alpha9-1] /Users/fungjai/.gradle/caches/transforms-1/files-1.1/db-1.0.0-alpha9-1.aar/5856d1930178baa49c0b886538696ee2/AndroidManifest.xml:20:5-22:41
