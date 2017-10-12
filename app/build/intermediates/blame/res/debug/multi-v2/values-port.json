@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/fungjai/Documents/playground_android/architectureComponentsSunshineStartingCode/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/fungjai/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f078e39d8ffcec60c9988b3e5a09c0d0/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                },
+                {
+                    "source": "/Users/fungjai/Documents/playground_android/architectureComponentsSunshineStartingCode/app/src/main/res/values-port/bools.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "692",
+                        "endColumns": "45",
+                        "endOffsets": "733"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "111",
+                        "endColumns": "45",
+                        "endOffsets": "152"
+                    }
+                }
+            ]
+        }
+    ]
+}
